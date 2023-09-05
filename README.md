@@ -1,3 +1,4 @@
+# About Me
 - 👋 Hi, I’m @TheRealOgPlayer
 - 👀 I’m interested in Programing
 - 🌱 I’m currently learning Javascript & Python
